@@ -1,0 +1,230 @@
+Walking the Tightrope: Coopetition Capability
+Construct and Its Role in Value Creation
+Rajnish Rai
+Indian Institute of Management, Ahmedabad
+Devi R. Gnyawali
+Virginia Tech
+Himanshu Bhatt
+King’s College London
+Prior research emphasizes the paradoxical nature of coopetition and the need for specialized
+capabilities—coopetition capability—to deal effectively with opportunities and challenges stemming from the simultaneous pursuit of cooperation and competition and to create superior value.
+However, we know little about the underlying conceptual properties of coopetition capability
+(construct clarity) and lack a reliable and valid scale to measure it (construct validity). We
+conduct a study in three phases to address this critical gap. First, building on paradox literature,
+we conceptualize coopetition capability as a multidimensional construct reflected by three underlying dimensions: coopetition mindset, analytical acumen, and executional skills. Second, we
+develop a 15-item psychometrically valid scale using a sample of 647 coopetitive alliances in
+high-technology sectors. Finally, using a matched sample of 536 coopetitive alliances, we
+extend the focal construct’s nomological network by examining two relationships: coopetition
+experience’s impact on coopetition capability and the effect of coopetition capability on the relationship between the coopetition paradox and value creation. Overall, our paper lays a foundation for deeper theory development and empirical research on coopetition by providing muchneeded construct clarity and psychometrically valid measures for coopetition capability.
+Acknowledgments: This work was funded by the Indian Institute of Management Ahmedabad. Our special thanks to
+Srinath Jagannathan and Manoj Motiani, whose careful reading and helpful comments helped improve the manuscript significantly. We sincerely thank two anonymous reviewers for providing constructive and developmental
+comments, which greatly helped us rework our thoughts and arguments. We also thank the action editor Tieying Yu
+for her editorial guidance at different stages of the manuscript, which helped us improve it. Supplemental material for
+this article is available with the manuscript on the JOM website.
+Corresponding Author: Rajnish Rai, Indian Institute of Management, Ahmedabad, Vastrapur, Ahmedabad 380015.
+E-mail: rajnishrai@iima.ac.in
+Journal of Management
+Vol. 49 No. 7, September 2023 2354–2386
+DOI: 10.1177/01492063221107873
+© The Author(s) 2022
+Article reuse guidelines:
+sagepub.com/journals-permissions
+2354
+Keywords: coopetition; coopetition capability; coopetition paradox; horizontal alliances;
+value creation
+Firms often engage in relationships that involve simultaneous cooperation and competition
+with an intent to create value (Gnyawali & Ryan Charleton, 2018; Ketchen, Snow, & Hoover,
+2004; Rai, 2016). Contrary to a traditional view in alliance research that considered competition among alliance partners harmful as it could weaken cooperation, limit resource
+exchange, and increase instability and risk of alliance failure (Das & Teng, 1998, 2000;
+Hamel, 1991; Kale, Singh, & Perlmutter, 2000; Khanna, Gulati, & Nohria, 1998; Park &
+Ungson, 2001), more recent perspectives—horizontal alliances (e.g., Belderbos, Gilsing, &
+Lokshin, 2012; Luo, Rindfleisch, & Tse, 2007; Nault & Tyagi, 2001) and coopetition
+(e.g., Bengtsson & Kock, 2000; Gnyawali, He, & Madhavan, 2006; Ketchen et al., 2004)
+—suggest that such behaviors are important and even necessary for managing opportunities
+and challenges brought about by rapid technological changes, competitive pressures, and
+demand uncertainties (Ansari, Garud, & Kumaraswamy, 2016; Burgers, Hill, & Kim,
+1993; Gnyawali & Park, 2011). However, the simultaneity of the opposing logics of cooperation and competition (Chen, 2008; Gnyawali, Madhavan, He, & Bengtsson, 2016) invariably
+leads to greater tensions between the alliance partners because of the need to tactfully balance
+common and private benefits (Gnyawali & Ryan Charleton, 2018). Consequently, managing
+these relationships effectively is inherently more challenging and demanding (Ansari et al.,
+2016; Hannah & Eisenhardt, 2018; Hoffmann, Lavie, Reuer, & Shipilov, 2018).
+In this respect, scholars have argued that firms need a specialized set of capabilities—coopetition capability—that would help them effectively manage opportunities and challenges
+stemming from coopetition (e.g., Bengtsson, Raza-Ullah, & Vanyushyn, 2016; Gnyawali
+et al., 2016; Raza-Ullah, 2020). While existing research has provided several views on the
+nature of coopetition capability, we lack a strong conceptual and empirical foundation for
+coopetition capability as a construct (Hoffmann et al., 2018). Accordingly, Hoffmann et al.
+(2018: 3044) argue that “despite some preliminary qualitative research . . . , little is known
+about firms’ approaches to managing the tension between competition and cooperation.”
+Put differently, coopetition capability lacks “construct clarity,” which Suddaby (2010) suggests is critical for any systematic conceptual and empirical research. An equally important
+and inseparable issue is the lack of a scale that precisely and accurately operationalizes
+and measures coopetition capability, or what is commonly called “construct validity”
+(Bacharach, 1989; Bagozzi, Yi, & Phillips, 1991; MacKenzie, Podsakoff, & Podsakoff,
+2011). Construct validity is necessary for researchers to “synthesize research and develop
+normative guidelines for managers” (Boyd, Bergh, Ireland, & Ketchen, 2013: 3).
+Considering these gaps, we ask the following research questions: (a) What unique features
+constitute coopetition capability (construct clarity)? and (b) How is coopetition capability
+operationalized and measured (construct validity)?
+We address these questions by drawing on the paradox literature (e.g., Lewis, 2000; Smith
+& Lewis, 2011; Smith & Tushman, 2005; Poole & Van de Ven, 1989). Among the various
+approaches to deal with paradoxes (see Lewis, 2000; Lewis & Smith, 2014; Poole & Van de
+Ven, 1989; Smith & Lewis, 2011 for more details), coopetition research emphasizes adopting
+Rai et al. / Walking the Tightrope 2355
+the integration approach to deal with paradoxical tensions inherent in coopetition (e.g.,
+Bengtsson et al., 2016; Chen, 2008; Gnyawali et al., 2016). Such an approach entails
+viewing the opposing forces of cooperation and competition as a duality—“interdependent
+[as opposed to independent and separate]—both contradictory and complementary”
+(Farjoun, 2010: 203)—and the interplay of these opposing forces as “interwoven and synergistic” (Andriopoulos & Lewis, 2009: 697). As a result, the integration approach offers an
+opportunity to combine the paradoxical elements synergistically (Gnyawali et al., 2016;
+Lado, Boyd, & Hanlon, 1997). However, it also invariably exacerbates the intensity of paradoxical tensions as the inherent contradictions gain more salience when the opposing forces
+are juxtaposed (Smith & Lewis, 2011). Keeping this in mind, we conceptualize coopetition
+capability as a firm-level capability that helps firms adopt the integration approach to
+realize two objectives: leverage the positive potential of the cooperation–competition
+paradox and manage the resulting paradoxical tensions.
+We conduct our study in three phases. First, building on prior literature and drawing
+insights from managers’ interviews and a focus group, we explicate the conceptual domain
+of coopetition capability. We posit coopetition capability as a second-order construct reflected
+by three underlying first-order organizational-level capabilities: coopetition mindset, analytical acumen, and executional skills. Second, we use primary data from 647 coopetitive alliances in high-technology sectors to develop a 15-item psychometrically valid scale for
+measuring coopetition capability. In the final phase, we use a matched sample of 536 coopetitive alliances to examine coopetition capability in its broader nomological network.
+Specifically, we show that coopetition experience influences coopetition capability positively
+and that coopetition capability moderates the relationship between the coopetition paradox
+and value creation positively.
+This paper addresses a critical research gap underscored by Hoffmann et al. (2018: 3037)
+that “we know little about the unique capabilities required for managing the interplay of competition and cooperation.” We make three important contributions to the literature. First, we
+provide much-needed construct clarity to the coopetition capability construct by systematically conceptualizing it as a multidimensional construct with unique microlevel processes
+and organizational routines. Second, we pave the way for more in-depth theorizing and
+nuanced empirical research on coopetition by developing a psychometrically valid scale
+that captures the most salient elements of the construct. Finally, we extend the focal construct’s existing nomological network and thereby advance a long-standing discussion
+regarding the nature of coopetition and its role in value creation (Gnyawali et al., 2006;
+Gnyawali & Ryan Charleton, 2018; Hoffmann et al., 2018; Ketchen et al., 2004; Rai, 2016).
+Conceptual Underpinnings for Coopetition Capability
+Horizontal Alliances and Coopetition Research: Key Insights and Overlaps
+Research on strategic alliances has traditionally viewed cooperation and competition as
+“separate modes of interaction among firms” (Hoffmann et al., 2018: 3034) and suggests
+that competitive tension between alliance partners is harmful as it could weaken cooperation,
+limit resource exchange/knowledge transfer, aggravate risk of opportunistic behavior, and
+increase instability and susceptibility to alliance failure (Arslan, 2018; Das & Teng, 1998;
+2356 Journal of Management / September 2023
+2000; Hamel, 1991; Kale et al., 2000; Khanna et al., 1998; Park & Russo, 1996; Park &
+Ungson, 2001). More recently, however, two overlapping but distinct streams of research
+have evolved, arguing that alliance partners often cooperate and compete simultaneously to
+generate mutually beneficial outcomes (Hoffmann et al., 2018): horizontal alliances, referred
+to as “alliances between competitors” operating at the same level in the industry value chain
+(Belderbos et al., 2012: 1813; also see, Burgers et al., 1993; Gimeno, 2004; Luo et al., 2007;
+Nault & Tyagi, 2001; Oxley, Sampson, & Silverman, 2009), and coopetition, referred to as
+“simultaneous competition and cooperation among firms with value creation intent”
+(Gnyawali & Ryan Charleton, 2018: 2513; also see Bengtsson & Kock, 2000; Gnyawali
+et al., 2006; Ketchen et al., 2004).
+Both streams of research generally agree on the motivations for forming such interfirm
+relationships (Belderbos et al., 2012; Gnyawali & Ryan Charleton, 2018; Lado et al.,
+1997). Specifically, firms enter into such alliances for developing new technologies and products in response to the convergence of technologies, shortened product life cycles, and emergence of new technologies (Belderbos et al., 2012; Burgers et al., 1993; Gnyawali & Park,
+2011), learning and gaining access to critical resources and capabilities (Burgers et al.,
+1993; Gnyawali & Park, 2009), entering new markets and reducing uncertainty (Burgers
+et al., 1993; Gnyawali & Park, 2009), mitigating competitive pressure due to decline or maturity of an industry (Luo, 2007), improving competitive position (Gnyawali & Park, 2009),
+and/or reducing costs and sharing risks (Fernandez, Le Roy, & Chiambaretto, 2018;
+Gnyawali & Park, 2011).
+Similarly, despite these advantages, both research streams also agree that pursuing such
+interfirm relationships is inherently more challenging (Gnyawali & Ryan Charleton, 2018;
+Hamel, 1991; Hannah & Eisenhardt, 2018; Hoffmann et al., 2018). The reason is that simultaneity of the contradictory forces of cooperation and competition—cooperation facilitates
+alignment of objectives while competition promotes the pursuit of private agendas
+(Gnyawali & Park, 2009; Kale et al., 2000; Khanna et al., 1998)—invariably results in
+greater tensions between the alliance partners (Ansari et al., 2016; Das & Teng, 2000;
+Hamel, 1991; Hoffmann et al., 2018; Luo et al., 2007). Such relationships are more susceptible to failure (Park & Russo, 1996) as they face greater risks of opportunistic behavior,
+including appropriation of a partner’s critical resources (Das & Teng, 1998; Lavie, 2006)
+and undesirable knowledge spillovers, reduced commitment, limited resource sharing, misalignment of incentive structure, and/or free ridership (Belderbos et al., 2012; Gnyawali &
+Park, 2009; Kale et al., 2000; Khanna et al., 1998).
+Therefore, how firms manage the tensions that stem from the pursuit of simultaneous cooperation and competition is a matter of central concern in both streams of research (Hoffmann
+et al., 2018). In this respect, prior research has identified two broad approaches to managing
+the tensions in such relationships: separation or integration of contradictory elements (Poole
+& Van de Ven, 1989). In the separation-based approaches, partners may pursue (a) organizational separation where alliance partners employ different organizational units or teams
+to engage in cooperation and competition elements. For example, in the Apple-Samsung relationship, while the sales teams of both firms compete fiercely to capture greater smartphone
+market share, the supply chain teams of both firms simultaneously collaborate to facilitate the
+timely supply of components from Samsung to Apple (Brandenburger & Nalebuff, 2021).
+Next, partner firms may pursue (b) domain separation, where they engage in simultaneous
+Rai et al. / Walking the Tightrope 2357
+competition and cooperation but these activities take place in different domains (e.g., product
+lines, geographical markets, or value chain activities). For example, in 2013, Ford and GM
+agreed to share the transmission technologies at the R&D stage but competed in manufacturing operations (Brandenburger & Nalebuff, 2021). Finally, there is (c) temporal separation,
+where partners switch between cooperation and competition over time. For example,
+Volkswagen follows a cooperative approach with a preferred supplier while designing and
+developing a part but induces price competition among its global suppliers while procuring
+it (Wilhelm & Sydow, 2018).
+Scholars, however, argue that separation-based approaches suffer from one major limitation. Even if firms employ organizational, domain, or temporal separation for buffering competitive elements from collaborative elements of the relationship, the top management still
+needs to integrate and coordinate their contradictory demands at higher levels, which
+causes tension (Bengtsson et al., 2016; Eisenhardt, Furr, & Bingham, 2010; Gnyawali
+et al., 2016). Therefore, scholars recommend the integration approach, which involves combining the contradictory elements of cooperation and competition as interdependent opposites
+(e.g., Chen, 2008; Hoffmann et al., 2018; Smith & Lewis, 2011). Although the notion of interdependence between cooperation and competition is a key concept in horizontal alliance literature for explaining various outcomes (e.g., formation of countervailing alliances [Gimeno,
+2004] or effect on firms’ value in alliances with rivals [Oxley et al., 2009]), this stream of
+literature has surprisingly paid little attention to examining the integration approach for managing tensions stemming from the simultaneity of cooperation and competition. Next, we
+describe how recent coopetition research is beginning to address this gap (e.g., Bengtsson
+et al., 2016; Gnyawali et al., 2016).
+Paradoxical Tensions in Coopetitive Alliances
+Drawing from paradox literature (e.g., Lewis, 2000; Poole & Van de Ven, 1989; Smith &
+Lewis, 2011; Smith & Tushman, 2005), coopetition scholars suggest that coopetition at its
+core involves a cooperation-competition paradox (Bengtsson et al., 2016; Gnyawali et al.,
+2016; Raza-Ullah, 2020), where a paradox consists of “contradictory yet interrelated elements
+that exist simultaneously and persist over time” (Smith & Lewis, 2011: 382). Moreover, the
+central concept in any paradoxical situation is tension, which emerges because contradictory
+elements “seem logical when considered in isolation, but irrational, inconsistent, and even
+absurd when juxtaposed” (Smith & Lewis, 2011: 387). Thus, the key to managing these relationships is to understand and address this paradox and the resultant paradoxical tension for
+realizing the potential opportunities of synergistic value creation (Arslan, 2018; Gnyawali &
+Ryan Charleton, 2018; Lado et al., 1997; Park & Ungson, 2001) and for minimizing any
+increased susceptibility to alliance failure and value destruction (Gnyawali & Ryan
+Charleton, 2018; Hoffmann et al., 2018; Park & Russo, 1996).
+In this respect, alliance partners may adopt an integration approach that involves “developing a wholly new conception” that supersedes the oppositional elements (Poole & Van de
+Ven, 1989: 573) and emphasizes synergistic combination. Specifically, integration requires
+that managers view seemingly opposing forces as a duality: “while [the individual elements
+are] conceptually distinct [and contradictory], [they] are no longer separate but, rather, are
+interdependent and potentially compatible—mutually enabling and a constituent of one
+2358 Journal of Management / September 2023
+another” (Farjoun, 2010: 205). Such an approach is potentially more rewarding as it enables
+firms to explore interdependencies and complementarities between the contradictory elements, leveraging the “energizing potential” of a paradox (Andriopoulos & Lewis, 2009:
+702). However, it also invariably accentuates the paradoxical tension because the inherent
+contradictions between the opposing forces gain more salience when such forces are juxtaposed (Smith & Lewis, 2011). As a result, firms would likely find that integration is “cognitively and administratively taxing” and adopting it successfully is far from a straightforward
+process (Hoffmann et al., 2018: 3043).
+For these reasons, prior coopetition research argues that a set of specialized capabilities—
+coopetition capability—is required to help firms adopt the integration approach effectively
+(e.g., Bengtsson et al., 2016; Gnyawali et al., 2016). A question may arise at this point:
+why is coopetition capability necessary when a well-established construct of alliance capability already exists? Although alliance capabilities (Schilke & Goerzen, 2010) are important in
+coopetition alliances, they are not specifically purposed or equipped to help firms understand
+and manage the coopetition paradox, particularly with respect to the integration approach. We
+argue that coopetition capability with its underlying routines and mechanisms would fill this
+critical need, thus enabling alliance partners to leverage the cooperation-competition paradox
+in a way that creatively “captures both extremes” (Eisenhardt, 2000: 703) and manages the
+resultant paradoxical tensions (Bengtsson et al., 2016; Gnyawali et al., 2016). A body of
+work has begun to give shape to the coopetition capability construct along these lines.
+However, we still lack a clear understanding of coopetition capability’s underlying conceptual properties (Hoffmann et al., 2018). Next, we provide a critical review of extant research
+on coopetition capability and build on this review to systematically develop the construct.
+Phase I: Conceptualizing Coopetition Capability
+Coopetition Capability: A Review and Assessment of Existing Research
+Gnyawali and Park (2011) first introduced the concept of coopetition capability, noting
+the role of coopetition mindset, coopetition experience, and superior and complementary
+resources. Building on these notions, Gnyawali et al. (2016) then conceptualized coopetition capability as paradox management capability consisting of two dimensions: analytical
+capability and executional capability. Analytical capability enables firms to understand the
+coopetition paradox cognitively, and executional capability helps to deal with the paradox.
+Relatedly, Bengtsson et al. (2016: 22) conceptualized coopetition capability as a unidimensional construct and defined it as “the ability to think paradoxically and to initiate processes that help firms attain and maintain a moderate level of tension, irrespective of the
+strength of the paradox.” In a more recent work, Bengtsson, Raza-Ullah, and Srivastava
+(2020: 3) broadened the concept by arguing that coopetition capability is “a firm’s
+ability to (a) understand the paradoxical nature of coopetition, (b) develop a repertoire
+of alternative strategies, and (c) make timely and accurate strategic decisions to balance
+the contradictory demands.” Similarly, Raza-Ullah (2020: 6) conceptualized it as a twodimensional construct: “emotional capability (i.e., the organizational ability to recognize,
+accept, and embrace conflicting emotions) and balancing capability (i.e., the organizational ability to balance competing demands without jeopardizing the common
+Rai et al. / Walking the Tightrope 2359
+objectives).” For details on existing studies on coopetition capability, see Table A1 in the
+online supplement. Table 1 provides an index of all the supplementary material available at
+http://xxx.sagepub.com/supplemental.
+These prior works provide useful insights in understanding coopetition capability, but existing definitions and conceptualizations are ambiguous and often contradictory, thereby undermining construct clarity. For example, while prior experience is often viewed as an antecedent of
+alliance capability (Heimeriks & Duysters, 2007; Kale, Dyer, & Singh, 2002; Schilke &
+Goerzen, 2010), Gnyawali and Park (2011) and Bengtsson et al. (2016) view prior coopetition
+experience as part of coopetition capability. This contradicts the idea that the construct definition
+should not incorporate antecedents or outcomes (Suddaby, 2010). Similarly, confusion exists
+whether coopetition mindset is a distinct element (Gnyawali & Park, 2011), is a part of analytical
+capability (Gnyawali et al., 2016), or is at all an element of coopetition capability (Bengtsson
+et al., 2016). Furthermore, whereas Raza-Ullah (2020) conceptualized balancing capability as
+a combination of analytical capability and executional capability, Gnyawali et al. (2016) considered analytical and executional capability as distinct elements. Besides, Raza-Ullah (2020) draws
+from emotional ambivalence literature to conceptualize emotional capability as a specific component of coopetition capability. However, emotion could be a part of cognition per the paradox
+literature (Smith & Lewis, 2011; Smith & Tushman, 2005), which is consistent with the coopetition mindset as conceptualized by other researchers (e.g., Gnyawali & Park, 2011; Bengtsson
+et al., 2020). Finally, superior and complementary resources noted initially as a part of coopetition capability (Gnyawali & Park, 2011) are not really unique to coopetition or the integration
+approach, as they are important even in the context of strategic alliances (Lambe, Spekman,
+& Hunt, 2002; Madhok & Tallman, 1998).
+As such, existing conceptualizations of coopetition capability are loose and fragmented.
+The overall confusion about the definitions, nature, and dimensions of coopetition capabilit
